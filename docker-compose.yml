@@ -4,4 +4,4 @@ services:
     build: .
     image: tomcatimage:${BUILD_ID}
     ports:
-      - 8542:8080
+      - 1234:8080
