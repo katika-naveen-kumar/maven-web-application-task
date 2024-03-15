@@ -19,7 +19,7 @@ spec:
         - name: mavenwebappcontainer
           ports:
             - containerPort: 8080
-          image: katikanaveenkumar/teestmavenwebappimageapplication:tag
+          image: katikanaveenkumar/version-1teestmavenwebappimageapplication:tag
 ---
 apiVersion: v1
 kind: Service
